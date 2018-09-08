@@ -1,5 +1,6 @@
 import sys
 
 for arg in sys.argv:
-    print("Module: ", arg)
+    if (arg) == "module":
+        print("Module: ", arg)
 
