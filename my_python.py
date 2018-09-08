@@ -1,4 +1,5 @@
 import sys
 
-print("hello prasad")
-print("How are you")
+for arg in sys.argv:
+    print("Module: ", arg)
+
