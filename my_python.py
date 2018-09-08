@@ -1,4 +1,4 @@
 import sys
 
-for arg in sys.argv:
-    print('Argument: ', arg)
+print("hello prasad")
+print("How are you")
