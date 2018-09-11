@@ -1,0 +1,7 @@
+.cache
+*.pyc
+.idea
+.idea/
+.idea/misc.xml
+.idea/stb-tester-test-pack-charter_2.iml
+.DS_Store
